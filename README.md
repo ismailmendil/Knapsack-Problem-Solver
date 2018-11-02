@@ -1,2 +1,2 @@
 # Knapsack-Problem-Solver
-This is a project that aims to implement well-knonwn algorithm for solving the Knapsack Problem. We focus primarily on the unbounded version where the amount of available object is infinite. We aim to be general and cover almost all the published algrithm ranging from exact metheds to metaheuristic techniques.
+This is a project that aims to implement well-knonwn algorithms for solving combinatorial problems using state-of-art techniques. The project has already implemented methods for solving Knapsack Problem. We focus primarily on the unbounded version where the amount of available objects is infinite. We aim to be general and cover almost all the state-of-art  algrithms ranging from exact metheds to metaheuristic techniques.
